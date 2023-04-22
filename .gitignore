@@ -236,7 +236,6 @@ assets/
 out
 .DS_Store
 .setup-done-before
-results/*
 reddit-bot-351418-5560ebc49cac.json
 /.idea
 *.pyc
